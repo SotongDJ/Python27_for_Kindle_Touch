@@ -14,5 +14,5 @@ I want to keep the [Python for Kindle 3] (https://github.com/SotongDJ/python-bin
 
 Install Method
 ============================
-* Download the whole "python" folder by click "Download this repo as a zip file"(The Cloud with "ZIP" Word) or click [HERE] (https://github.com/SotongDJ/python-bin-for-kindle-3/zipball/master)
+* Download the whole "python" folder by click "Download this repo as a zip file"(The Cloud with "ZIP" Word) or click [HERE] (https://github.com/SotongDJ/python-bin-for-kindle-touch/zipball/master)
 * unzip the zip file and move "python" folder to the root of your Kindle touch which in USB Flash Drive mode (/mnt/us).
